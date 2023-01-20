@@ -536,7 +536,7 @@ def sheetsage(
     segment_start_hint=None,
     segment_end_hint=None,
     use_jukebox=False,
-    measures_per_chunk=8,
+    measures_per_chunk=4,
     segment_hints_are_downbeats=False,
     beats_per_measure_hint=None,
     beats_per_minute_hint=None,
